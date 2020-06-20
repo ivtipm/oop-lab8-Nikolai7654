@@ -16,3 +16,12 @@ E:\.STUDY\OOP\Laba8 SimpleClass (unit-test)\ComplexCalculator\obj\Debug\ComplexC
 E:\.STUDY\OOP\Laba8 SimpleClass (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.csproj.GenerateResource.cache
 E:\.STUDY\OOP\Laba8 SimpleClass (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.exe
 E:\.STUDY\OOP\Laba8 SimpleClass (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.pdb
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\bin\Debug\ComplexCalculator.exe.config
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\bin\Debug\ComplexCalculator.exe
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\bin\Debug\ComplexCalculator.pdb
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.csprojAssemblyReference.cache
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.MainForm.resources
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.Properties.Resources.resources
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.exe
+C:\Users\Николай\Desktop\Laba8 Calukulator (unit-test)\ComplexCalculator\obj\Debug\ComplexCalculator.pdb
